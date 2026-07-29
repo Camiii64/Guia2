@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="rose_mist">#FFF4F2</color>
+    <color name="rose_soft">#F6C9D3</color>
+    <color name="mauve">#9C6B7E</color>
+    <color name="plum_text">#3F2A34</color>
+    <color name="sage">#8FAF9F</color>
+    <color name="cream">#FFFDF9</color>
+    <color name="error_soft">#B64B5B</color>
 </resources>
