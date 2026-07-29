@@ -1,4 +1,4 @@
-package com.example.guia2
+package com.example.miperfil
 
 import org.junit.Test
 

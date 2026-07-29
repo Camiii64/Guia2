@@ -1,7 +1,21 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Guia2" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <style name="Base.Theme.MiPerfil" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/plum_text</item>
+        <item name="android:navigationBarColor">@color/plum_text</item>
+        <item name="colorPrimary">@color/rose_soft</item>
+        <item name="colorSecondary">@color/sage</item>
+        <item name="colorError">@color/error_soft</item>
+    </style>
+
+    <style name="Theme.MiPerfil" parent="Base.Theme.MiPerfil" />
+
+    <style name="ProfileSummaryText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:textColor">@color/plum_text</item>
+        <item name="android:textSize">16sp</item>
     </style>
 </resources>
