@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Guia2"
+rootProject.name = "MiPerfil"
 include(":app")
